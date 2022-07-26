@@ -10,6 +10,8 @@
 
 I am a Full-Stack Developer with a passion for combining creativity with functionality. My goal in every project is to create a meaningful and engaging user-experience for all!
 
+I am currently learning Data Structures & Algorithms. The goal is to improve the quality of my code by taking into consideration the space and time complexity to ensure my applications can run as efficiently as possible.
+
 Fun Fact: Aside from coding, my two favourite things are food and travel! You will see that most of my post-graduate projects will be centered around these two 😁
 
 ### Languages, Libraries, and Tools:
