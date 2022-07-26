@@ -1,5 +1,12 @@
-### Hi there 👋
+# ![header](images/header.png)
 
+
+
+### Hi there! 👋
+
+
+
+I am a Full-Stack Developer with a passion for combining creativity and functionality. My goal in every project is to create a meaningful and engaging user-experience for all!
 <!--
 **mpham-12/mpham-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
